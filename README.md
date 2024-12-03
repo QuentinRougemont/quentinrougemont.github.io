@@ -47,11 +47,18 @@ I work in Tatiana Giraud's lab ([Evolutionary Genetics and Ecology team](https:/
 
 ## Past work 
 
-### work in Mathieu Joron's Lab [CEFE CNRS](https://joron.cefe.cnrs.fr/contact/)
+### work in Mathieu Joron's Lab at [CEFE CNRS](https://joron.cefe.cnrs.fr/contact/)
 
-to be filled
+During my postdoc in Mathieu's lab, I worked on the population genomics' of Heliconius numata. In particular, I was interested in understanding the consequences of the mating system on the species demography.
 
-### work in Louis Bernatchez's Lab[Université Laval](http://www2.bio.ulaval.ca/louisbernatchez/presentation_fr.htm), and during my phd:
+
+I also study the speciation process at the far end of the speciation continuum in a set of closely related species, Heliconius hecale and Helionius ismenius two strongly divergent species displaying co-mimics and non-comimics ecotypes.
+
+
+
+
+
+### work in Louis Bernatchez's Lab at [Université Laval](http://www2.bio.ulaval.ca/louisbernatchez/presentation_fr.htm), and during my phd:
 
 During my postdoc in Louis'lab as well as during my phd, I focussed mostly in the processes of divergence and speciation within populations. 
 
@@ -69,7 +76,15 @@ During this postdoc and my phd I :
 
 * Perform Genetic-Environment Association analyes (GEA) which is similar to GWAS approaches to infer putative footprint of local adaptation in various species.
 
+example paper: 
+* Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.
+	*  voir perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://quentinrougemont.github.io/docs/22_Rougemont_Molecular_Ecology_2022.pdf)
+
 * Used molecular approach to study the genetic load of expanding populations, in particular the process of allele surfing
+
+example paper: 
+* Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://quentinrougemont.github.io/docs/29_Rougemont_et_al_2023_PlosGenetics.pdf)
+
 
 
 
@@ -89,7 +104,7 @@ During this postdoc and my phd I :
 * Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.
 	*  voir perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://quentinrougemont.github.io/docs/22_Rougemont_Molecular_Ecology_2022.pdf)
 
-Q*  Rougemont, J-S Moore, T. Leroy, E. Normandeau, E.B. Rondeau, R.E. Withler, D.M.Van Doornik, P.A. Crane, K.A. Naish, J.C Garza, T.D. Beacham, B.F. Koop, L Bernatchez (2020) Demographic history shaped geographical patterns of deleterious mutation load in a broadly distributed Pacific salmon. PLOS Genetics. https://doi.org/10.1371/journal.pgen.1008348 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/19_Rougemont_et_al2020PlosGen.pdf)
+* Q  Rougemont, J-S Moore, T. Leroy, E. Normandeau, E.B. Rondeau, R.E. Withler, D.M.Van Doornik, P.A. Crane, K.A. Naish, J.C Garza, T.D. Beacham, B.F. Koop, L Bernatchez (2020) Demographic history shaped geographical patterns of deleterious mutation load in a broadly distributed Pacific salmon. PLOS Genetics. https://doi.org/10.1371/journal.pgen.1008348 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/19_Rougemont_et_al2020PlosGen.pdf)
 
 
 * Q Rougemont*, H Cayuela*, M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (*: Co-first authorship). [manuscript](https://quentinrougemont.github.io/docs/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)

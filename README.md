@@ -11,12 +11,19 @@
 
 ## About
 Hello,
-My name is Quentin Rougemont, and I am a postdoctoral researcher in population genomics. I use the latest methodological advancements in my field to address the following questions:
-    1. How do demography, selection, and recombination interact to drive processes of speciation and local adaptation?
-    2. How do sex chromosomes evolve and persist across living organisms?
-I explore these questions across a wide range of organisms, from fungi and fish to plants and birds, encompassing diverse population sizes and varying degrees of gene flow. To do this, I employ an interdisciplinary approach that requires a solid understanding of fundamental concepts in evolutionary biology. I combine modeling with an empirical approach, leveraging population sequencing, which has enabled me to develop advanced skills in bioinformatics. In an attempt to increase research reproducibility I develop simple workflows for genome assembly, graph analyses, genome annotation, SNP calling, and demographic modelling using ABC and a bit of machine learning. 
+My name is Quentin Rougemont, and I am a postdoctoral researcher in population genomics. I use the latest methodological advancements in my field to address the following questions:  
 
-Keywords: Evolutionary biology, Speciation, Local adaptation, sex chromosome, genome assembly, genome annotation, GWAS-GEA.
+    1. How do demography, selection, and recombination interact to drive processes of speciation and local adaptation?  
+
+    2. How do sex chromosomes evolve and persist across living organisms?  
+
+I explore these questions across a wide range of organisms, from fungi and fish to plants and birds, encompassing diverse population sizes and varying degrees of gene flow. To do this, I employ an interdisciplinary approach that requires a solid understanding of fundamental concepts in evolutionary biology. 
+
+I combine modeling with an empirical approach, leveraging population sequencing, which has enabled me to develop advanced skills in bioinformatics. 
+
+In an attempt to increase research reproducibility I develop simple workflows for genome assembly, graph analyses, genome annotation, SNP calling, and demographic modelling using ABC and a bit of machine learning. 
+
+**Keywords: Evolutionary biology, Speciation, Local adaptation, sex chromosome, genome assembly, genome annotation, GWAS-GEA.**
 
 I am currently based at Institute for the Diversity, Ecology and Evolution of the Living World of the Université Paris Saclay ([IDEEV](https://www.ideev.universite-paris-saclay.fr/en/)). 
 

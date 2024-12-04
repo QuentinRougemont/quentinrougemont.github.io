@@ -10,12 +10,16 @@
 </p>
 
 ## About
+<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/17588888.jpeg" width = "100" heigth = "100">
+
 Hello,
-My name is Quentin Rougemont, and I am a postdoctoral researcher in population genomics. I use the latest methodological advancements in my field to address the following questions:  
+My name is Quentin Rougemont, and I am a postdoctoral researcher in population genomics. I use the latest methodological advancements in my field to address the following questions: 
+ 
 
-    1. How do demography, selection, and recombination interact to drive processes of speciation and local adaptation?  
+    **1. How do demography, selection, and recombination interact to drive processes of speciation and local adaptation? ** 
 
-    2. How do sex chromosomes evolve and persist across living organisms?  
+    **2. How do sex chromosomes evolve and persist across living organisms? ** 
+ 
 
 I explore these questions across a wide range of organisms, from fungi and fish to plants and birds, encompassing diverse population sizes and varying degrees of gene flow. To do this, I employ an interdisciplinary approach that requires a solid understanding of fundamental concepts in evolutionary biology. 
 
@@ -49,6 +53,8 @@ I work in Tatiana Giraud's lab ([Evolutionary Genetics and Ecology team](https:/
 
 ### work in Mathieu Joron's Lab at [CEFE CNRS](https://joron.cefe.cnrs.fr/contact/)
 
+<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/Fig1.jpg" width = "100" heigth = "100">
+
 During my postdoc in Mathieu's lab, I worked on the population genomics' of Heliconius numata. In particular, I was interested in understanding the consequences of the mating system on the species demography.
 
 
@@ -76,41 +82,57 @@ During this postdoc and my phd I :
 
 * Perform Genetic-Environment Association analyes (GEA) which is similar to GWAS approaches to infer putative footprint of local adaptation in various species.
 
-example paper: 
-* Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.
-	*  voir perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://quentinrougemont.github.io/docs/22_Rougemont_Molecular_Ecology_2022.pdf)
+        example paper: 
+    * Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.
+	    *  see perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/22_Rougemont_Molecular_Ecology_2022.pdf)
+
+    * H. Cayuela Q Rougemont*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
+
+<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/Fig2.jpg" width = "100" heigth = "100">
+
+
 
 * Used molecular approach to study the genetic load of expanding populations, in particular the process of allele surfing
 
-example paper: 
-* Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://quentinrougemont.github.io/docs/29_Rougemont_et_al_2023_PlosGenetics.pdf)
+        example paper: 
+    * Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 
+<p align="center">
+<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/Fig3.jpg" width = "100" heigth = "100">
+<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/Fig4.jpg" width = "100" heigth = "100">
+</p>
 
+<p align="center">
+<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/Fig5.jpg" width = "100" heigth = "100">
+<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/Fig6.jpg" width = "100" heigth = "100">
+</p>
+
+ 
 
 
 ## Selected Publications
 
-* C Moraga*, C Branco*, Q Rougemont*, P Veltsos, P Jedlička, [….], D Charlesworth, T Giraud, A. Bendahmane, A. Di Genova, A. Madoui, R Hobza, G.A.B. Marais The Silene latifolia genome and its giant Y chromosome. bioRxiv 2023.09.21.558754; doi: https://doi.org/10.1101/2023.09.21.558754. In review. [manuscript](https://quentinrougemont.github.io/docs/34_Moraga_Branco_Rougemont_et_al-2023-InReview.pdf).
+* C Moraga*, C Branco*, Q Rougemont*, P Veltsos, P Jedlička, [….], D Charlesworth, T Giraud, A. Bendahmane, A. Di Genova, A. Madoui, R Hobza, G.A.B. Marais The Silene latifolia genome and its giant Y chromosome. bioRxiv 2023.09.21.558754; doi: https://doi.org/10.1101/2023.09.21.558754. In review. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/34_Moraga_Branco_Rougemont_et_al-2023-InReview.pdf).
 
-* Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://quentinrougemont.github.io/docs/29_Rougemont_et_al_2023_PlosGenetics.pdf)
+* Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 
-* Y Dorant, M Laporte, Q Rougemont, H Cayuela, R Rochette, L Bernatchez (2022). Landscape genomics of the American lobster (Homarus americanus). Molecular Ecology. https://doi.org/10.1111/mec.16653 [manuscript](https://quentinrougemont.github.io/docs/23_Dorant_et_al2022MolEcol_Landscape genomics of the American lobster Homarus americanus.pdf)
+* Y Dorant, M Laporte, Q Rougemont, H Cayuela, R Rochette, L Bernatchez (2022). Landscape genomics of the American lobster (Homarus americanus). Molecular Ecology. https://doi.org/10.1111/mec.16653 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/23_Dorant_et_al2022MolEcol_Landscape genomics of the American lobster Homarus americanus.pdf)
 
 * Q Rougemont, B Huber, S Martin, A Whibley, C Estrada, D Solano, R Orpet, W.O McMillan, B Frérot, M Joron (2023) Subtle introgression footprints at the end of the speciation continuum in a clade of Heliconius butterflies. Molecular Biology and Evolution  https://doi.org/10.1093/molbev/msad166 
-[manuscript](https://quentinrougemont.github.io/docs/28_Rougemont_et_al2023MBE_Heliconius.pdf)
+[manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/28_Rougemont_et_al2023MBE_Heliconius.pdf)
 
-* MÁ Rodríguez de Cara*, P Jay*, Q. Rougemont*, M Chouteau, A Whibley, B, F Piron-Prunier, R Rogner Ramos, AVL Freitas, C Salazar, K Lucas Silva-Brandão, T Texeira Torres, M Joron (2023) Supergene formation is associated with a major shift in genome-wide patterns of diversity in a butterfly. Peer-Community Journal (10.24072/pcjournal.298). [manuscript](https://quentinrougemont.github.io/docs/27_DeCara_Jay_Rougemont_2023_pcjournal_298.pdf)
+* MÁ Rodríguez de Cara*, P Jay*, Q. Rougemont*, M Chouteau, A Whibley, B, F Piron-Prunier, R Rogner Ramos, AVL Freitas, C Salazar, K Lucas Silva-Brandão, T Texeira Torres, M Joron (2023) Supergene formation is associated with a major shift in genome-wide patterns of diversity in a butterfly. Peer-Community Journal (10.24072/pcjournal.298). [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/27_DeCara_Jay_Rougemont_2023_pcjournal_298.pdf)
 
 * Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.
-	*  voir perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://quentinrougemont.github.io/docs/22_Rougemont_Molecular_Ecology_2022.pdf)
+	*  voir perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/22_Rougemont_Molecular_Ecology_2022.pdf)
 
 * Q  Rougemont, J-S Moore, T. Leroy, E. Normandeau, E.B. Rondeau, R.E. Withler, D.M.Van Doornik, P.A. Crane, K.A. Naish, J.C Garza, T.D. Beacham, B.F. Koop, L Bernatchez (2020) Demographic history shaped geographical patterns of deleterious mutation load in a broadly distributed Pacific salmon. PLOS Genetics. https://doi.org/10.1371/journal.pgen.1008348 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/19_Rougemont_et_al2020PlosGen.pdf)
 
 
-* Q Rougemont*, H Cayuela*, M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (*: Co-first authorship). [manuscript](https://quentinrougemont.github.io/docs/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
+* Q Rougemont*, H Cayuela*, M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (*: Co-first authorship). [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
 
 
-* C Perrier, Q Rougemont, Charmentier A (2020) Demographic history and genomics of local adaptation in blue tits. Evolutionary Applications. https://doi.org/10.1111/eva.13035 [manuscript](https://quentinrougemont.github.io/docs/16_PerrierRougemontCharmentier2020_Demographic history and genomics of local adaptation in blue tit populations.pdf)
+* C Perrier, Q Rougemont, Charmentier A (2020) Demographic history and genomics of local adaptation in blue tits. Evolutionary Applications. https://doi.org/10.1111/eva.13035 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/16_PerrierRougemontCharmentier2020_Demographic history and genomics of local adaptation in blue tit populations.pdf)
  
 
 
@@ -119,14 +141,66 @@ example paper:
 > in 2023 I was instructor of the Demographic Inference course online by [physalia](https://www.physalia-courses.org/courses-workshops/demoinference/)
 
 
-## Scripts and Pipelines  
 
-> all my code can be find [here](https://github.com/quentinRougemont/)
+## Scripts and Pipelines
+
+> I am  trying to share some of my code and worflows as much as possible for the sake of reproducibility and to help students.
+
+> all this code can be find [here](https://github.com/quentinRougemont/)
+
 
 
 ## Talks and posters 
-* To be filled
 
+25 – Conférence Jacques Monod – 2023 –  Roscoff – Oral – Co-author (Speaker : G. Marais): Silene genome assembly and sex chromosome 
+
+24 – Conférence Jacques Monod – 2023 – Roscoff – Poster – Co-author (Speaker : E. Lucotte): HD/PR in microbotryum 
+
+23 – Conférence Jacques Monod – 2023 – Rosocff – Poster – (Speaker : L. Boyer): [link](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/)
+ 
+22 – Conférence Réseau International Silène – 2023 – Online –  Oral : The Silene latifolia genome and its giant Y chromosome 
+ 
+21 - AIEM  –  2023 – France – Oral (Speaker : M. Joron) : Sublte introgression in a clade of strongly isolated Heliconius species 
+
+20 - AFS – 2022 –  Spokane (Washington) – Oral – Co-author (Speaker : A. Xuereb) : Conservation Units in Coho salmon 
+
+19 - CCFR – 2021 – Online – Oral – Co-author (Speaker : A. Xuereb) : Conservation Units in Coho salmon 
+
+18 - ICISB –  2019 – Édimbourg – Oral:Divergent history, linked selection and deleterious mutations in Coho salmon across its native range 
+
+17 - RAQ  –  2022 – Québec – Oral – Co-author (Speaker : A. Xuereb) : Conservation Units in Coho salmon
+ 
+16 - RAQ  –  2019 – Québec – Oral: Reconstruire l’histoire démographique et sélective du saumon coho sur son aire de distribution
+
+15 - RAQ  –  2019 – Québec – Oral – Co-author (Speaker : Y. Dorant)
+
+14 - RAQ  –  2018 – Québec – Oral
+
+13 - RAQ  –  2017 – Québec – Oral
+
+12 - Joint ESEB-Evolution Congress – 2018 – Montpellier – Poster: Divergent history, linked selection and deleterious mutations in Coho salmon across its native range [link](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/)
+
+11 - Evolution – 2017 – Portland (Maine) – Oral: Inferring the demographic history of Atlantic salmon through ABC
+
+10 - Conférence Jacques Monod – 2016 – Poster: Genome-wide divergence history of Atlantic salmon Salmo salar across its native range [link](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/)
+
+9 - Lobster Conference – 2017 – Portland (Oregon) – Oral
+
+8 - Lobster Conference – 2017 – Portland (Oregon) – Oral – Co-author (Speaker : Y. Dorant)
+
+7 - Lobster Conference – 2017 – Portland (Oregon) – Oral – Co-author (Speaker : L. Benestan)
+
+6 - FSBI  –  2016 – Bangor – Oral  : Inferring the demographic history underlying parallel genomic divergence among pairs of parasitic and non parasitic lampreys ecotypes
+
+5 -  FSBI  –  2016 – Bangor – Oral – Co-1er author (Speaker : G. Evanno): Fragmentation and genetic diversity of European lampreys 
+
+4 -  ESEB –  2015 –  Lausanne – Poster: The demographic history of European lampreys 
+
+3 -  SMBE/SMBEBA – 2015 – Montpellier (St. Martin de Londres) – Poster: Modelling divergence in European lampreys 
+
+2 -  AFS – Québec –  2014 – Oral: Speciation in European lampreys 
+
+1 -  ESEB –  2013 – Portugal – Oral: Ecological speciation in European lampreys
 
 ## Contact 
 :email: quentinrougemont [at] orange [dot] fr 
@@ -134,4 +208,4 @@ example paper:
 
 ---
 
-Last update: 2024/12/03
+Last update: 2024/12/04

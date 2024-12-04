@@ -88,8 +88,9 @@ During this postdoc and my phd I :
 
     * H. Cayuela Q Rougemont*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
 
-<img src="figures/Fig2.jpg" width = "200" heigth = "200">
-
+<p align="center">
+<img src="figures/Fig2.jpg" width = "800" heigth = "800">
+<p>
 
 
 * Used molecular approach to study the genetic load of expanding populations, in particular the process of allele surfing
@@ -98,13 +99,13 @@ During this postdoc and my phd I :
     * Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 
 <p align="center">
-<img src="figures/Fig3.jpg" width = "400" heigth = "400">
-<img src="figures/Fig4.jpg" width = "400" heigth = "400">
+<img src="figures/Fig3.png" width = "400" heigth = "400">
+<img src="figures/Fig4.png" width = "400" heigth = "400">
 </p>
 
 <p align="center">
-<img src="figures/Fig5.jpg" width = "400" heigth = "400">
-<img src="figures/Fig6.jpg" width = "400" heigth = "400">
+<img src="figures/Fig5.png" width = "400" heigth = "400">
+<img src="figures/Fig6.png" width = "400" heigth = "400">
 </p>
 
  

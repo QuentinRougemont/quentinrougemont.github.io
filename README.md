@@ -71,6 +71,7 @@ I also study the speciation process at the far end of the speciation continuum i
 <p align="center">
 <img src="figures/Fig3.png" width = "400" heigth = "300">
     <em> Coho salmon (Credit: Paul Vecsei) </em>
+</p>
 
 During my postdoc in Louis'lab as well as during my phd, I focussed mostly in the processes of divergence and speciation within populations. 
 

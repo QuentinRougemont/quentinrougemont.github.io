@@ -10,7 +10,7 @@
 </p>
 
 ## About
-<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/17588888.jpeg" width = "100" heigth = "100">
+<img src="figures/Fig0.png" width = "100" heigth = "100">
 
 Hello,
 My name is Quentin Rougemont, and I am a postdoctoral researcher in population genomics. I use the latest methodological advancements in my field to address the following questions: 
@@ -53,7 +53,7 @@ I work in Tatiana Giraud's lab ([Evolutionary Genetics and Ecology team](https:/
 
 ### work in Mathieu Joron's Lab at [CEFE CNRS](https://joron.cefe.cnrs.fr/contact/)
 
-<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/Fig1.jpg" width = "100" heigth = "100">
+<img src="https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/figures/Fig1.png" width = "100" heigth = "100">
 
 During my postdoc in Mathieu's lab, I worked on the population genomics' of Heliconius numata. In particular, I was interested in understanding the consequences of the mating system on the species demography.
 

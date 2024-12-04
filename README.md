@@ -104,7 +104,7 @@ During this postdoc and my phd I :
     * Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 
 <p align="center">
-<img src="figures/Fig3.png" width = "400" heigth = "400">
+<img src="figures/Fig3.png" width = "400" heigth = "300">
     <em> Coho salmon (Credit: Paul Vecsei) </em>
 
 <img src="figures/Fig4.png" width = "400" heigth = "400">
@@ -112,7 +112,7 @@ During this postdoc and my phd I :
 </p>
 
 <p align="center">
-<img src="figures/Fig5.png" width = "400" heigth = "400">
+<img src="figures/Fig5.png" width = "400" heigth = "550">
     <em> Deleterious load in Coho salmon</em>
 <img src="figures/Fig6.png" width = "400" heigth = "400">
     <em> recombination explains the load in salmon</em>

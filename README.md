@@ -68,6 +68,10 @@ I also study the speciation process at the far end of the speciation continuum i
 
 ### work in Louis Bernatchez's Lab at [Université Laval](http://www2.bio.ulaval.ca/louisbernatchez/presentation_fr.htm), and during my phd:
 
+<p align="center">
+<img src="figures/Fig3.png" width = "400" heigth = "300">
+    <em> Coho salmon (Credit: Paul Vecsei) </em>
+
 During my postdoc in Louis'lab as well as during my phd, I focussed mostly in the processes of divergence and speciation within populations. 
 
 During my Ph.D., I was able to combine experimental approaches, population genetics (microsatellite markers), genomics (RADseq), and demographic modeling to better understand the divergence process in parasitic and non-parasitic lamprey ecotypes in Europe.
@@ -100,16 +104,10 @@ During this postdoc and my phd I :
 
 * Used molecular approach to study the genetic load of expanding populations, in particular the process of allele surfing
 
-        example paper: 
+        example paper:
+ 
     * Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 
-<p align="center">
-<img src="figures/Fig3.png" width = "400" heigth = "300">
-    <em> Coho salmon (Credit: Paul Vecsei) </em>
-
-<img src="figures/Fig4.png" width = "400" heigth = "400">
-    <em> Coho salmon demographic history</em>
-</p>
 
 <p align="center">
 <img src="figures/Fig5.png" width = "400" heigth = "550">

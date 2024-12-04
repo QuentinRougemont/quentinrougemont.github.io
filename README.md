@@ -53,7 +53,9 @@ I work in Tatiana Giraud's lab ([Evolutionary Genetics and Ecology team](https:/
 
 ### work in Mathieu Joron's Lab at [CEFE CNRS](https://joron.cefe.cnrs.fr/contact/)
 
-<img src="figures/Fig1.png" width = "100" heigth = "100">
+<p align="center">
+<img src="figures/Fig1.png" width = "400" heigth = "400">
+</p>
 
 During my postdoc in Mathieu's lab, I worked on the population genomics' of Heliconius numata. In particular, I was interested in understanding the consequences of the mating system on the species demography.
 
@@ -83,14 +85,17 @@ During this postdoc and my phd I :
 * Perform Genetic-Environment Association analyes (GEA) which is similar to GWAS approaches to infer putative footprint of local adaptation in various species.
 
         example paper: 
-    * Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.
+ 
+    * Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.  
+
 	    *  see perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/22_Rougemont_Molecular_Ecology_2022.pdf)
 
     * H. Cayuela Q Rougemont*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
 
 <p align="center">
-<img src="figures/Fig2.jpg" width = "800" heigth = "800">
-<p>
+    <img src="figures/Fig2.jpg" width = "400" heigth = "400">
+    <em> distribution of outliers in Capelan</em>
+</p>
 
 
 * Used molecular approach to study the genetic load of expanding populations, in particular the process of allele surfing
@@ -100,12 +105,17 @@ During this postdoc and my phd I :
 
 <p align="center">
 <img src="figures/Fig3.png" width = "400" heigth = "400">
+    <em> Coho salmon (Credit: Paul Vecsei) </em>
+
 <img src="figures/Fig4.png" width = "400" heigth = "400">
+    <em> Coho salmon demographic history</em>
 </p>
 
 <p align="center">
 <img src="figures/Fig5.png" width = "400" heigth = "400">
+    <em> Deleterious load in Coho salmon</em>
 <img src="figures/Fig6.png" width = "400" heigth = "400">
+    <em> recombination explains the load in salmon</em>
 </p>
 
  

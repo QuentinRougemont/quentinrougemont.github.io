@@ -72,7 +72,7 @@ Using forward simulation we tested the hypothesis that balancing selection and d
 
 
 <p align="center">
-<img src="figures/FigX0.png" width = "800" height = "600">
+<img src="figures/FigX0.png" width = "900" height = "400">
 </p>
 **Figure:**  *Variation in pi in several Heliconius populations, showing higher genetic diversity in H. numata populations from the Amazon than other taxa. Population names indicates their origin (PR=Peru, CO = Columbia, EC = Ecuador, FG = French Guiana, BR = Brazil (atlantic), VE = Venezuela, PA = Panama. The H. numata population with a lowest diversity is the one from the Atlantic forest (Brazil)*  
 
@@ -81,9 +81,11 @@ Using forward simulation we tested the hypothesis that balancing selection and d
 **associated paper:** 
 
 * MÁ Rodríguez de Cara\*, P Jay\*, Q. Rougemont\*, M Chouteau, A Whibley, B, F Piron-Prunier, R Rogner Ramos, AVL Freitas, C Salazar, K Lucas Silva-Brandão, T Texeira Torres, M Joron (2023) Supergene formation is associated with a major shift in genome-wide patterns of diversity in a butterfly. Peer-Community Journal (10.24072/pcjournal.298). [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/27_DeCara_Jay_Rougemont_2023_pcjournal_298.pdf)  
+ 
 
 
-## Speciation work on heliconius :
+## Speciation work on heliconius :  
+
 
 I also studied the speciation process at the far end of the speciation continuum in a set of closely related species, *Heliconius hecale* and *Helionius ismenius* two strongly divergent species displaying co-mimics and non-comimics ecotypes.
 
@@ -91,7 +93,7 @@ Using a [four-populations ABC framework](https://github.com/QuentinRougemont/ABC
 
  
 <p align="center">
-<img src="figures/FigX.png" width = "1200" height = "600">
+<img src="figures/FigX.png" width = "1400" height = "600">
 </p>
 **Figure:** **A.** Most likely scenario of divergence inferred from ABC and ABC-RF. The most likely model was obtained through both ABC and ABC-RF. Parameters were estimated with ABC. Arrows display migration rate. The arrow between species displays possible migration (inferred with ABC-RF only) between the comimics. Split time estimated in years assuming four generations per year. All models included the effect of selection at linked sites and of barriers to gene flow. Values in brackets displayed 95% posterior credible intervals. 
 **B.** Number of significant DFOIL tests between each possible direction. **C.** Topology tested in the DFOIL analysis. Here, we use the term “incongruent” to refer to situations where the intergroup gene flow is between a comimic and a non-comimic species, which does not allow testing our hypotheses.
@@ -100,14 +102,12 @@ Using a [four-populations ABC framework](https://github.com/QuentinRougemont/ABC
 * Q Rougemont\*, B Huber\*, S Martin, A Whibley, C Estrada, D Solano, R Orpet, W.O McMillan, B Frérot, M Joron (2023) Subtle introgression footprints at the end of the speciation continuum in a clade of Heliconius butterflies. Molecular Biology and Evolution  https://doi.org/10.1093/molbev/msad166 
 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/28_Rougemont_et_al2023MBE_Heliconius.pdf)
 
-
-
-
+<br/><br/>
 
 ### work in Louis Bernatchez's Lab at [Université Laval](http://www2.bio.ulaval.ca/louisbernatchez/presentation_fr.htm), and during my phd:
 
 <p align="center">
-<img src="figures/Fig3.png" width = "400" height = "300" alt>
+<img src="figures/Fig3.png" width = "500" height = "300" alt>
     <em> Coho salmon (Credit: Paul Vecsei) </em>
 </p>
 
@@ -147,7 +147,7 @@ During this postdoc and my phd I :
 
 
 ![](figures/Fig5.png)
-**Linear increase in the deleterious load in Coho salmon** Left panel: increase in the $\pi~N~/$\pi~S~ ratio (proxy for the load) as a function of the distance from the most likely ancestral refugia. Right panel: inceased in the rate of non-adaptive amino-acid subsitution relative to neutral divergence ($\omega~NA~). Similar correlations were observed when using more robust proxies for the load.
+**Linear increase in the deleterious load in Coho salmon** **Left panel:** increase in the $\frac{\pi~N~}{\pi~S~}$ ratio (proxy for the load) as a function of the distance from the most likely ancestral refugia. Right panel: inceased in the rate of non-adaptive amino-acid subsitution relative to neutral divergence ($\omega~NA~$). Similar correlations were observed when using more robust proxies for the load.
 
 
 ![](figures/Fig6.png)

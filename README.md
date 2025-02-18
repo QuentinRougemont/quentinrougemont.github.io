@@ -39,6 +39,24 @@ I am currently based at Institute for the Diversity, Ecology and Evolution of th
 ## News 
 
 
+**The Silene latifolia genome and its giant Y chromosome** just published in [Science!](https://www.science.org/doi/10.1126/science.adj7430)
+
+**abstract:** 
+In many species with sex chromosomes, the Y is a tiny chromosome. However, the dioecious plant Silene latifolia has a giant ~550-megabase Y chromosome, which has remained unsequenced so far. We used a long- and short-read hybrid approach to obtain a high-quality male genome. Comparative analysis of the sex chromosomes with their homologs in outgroups showed that the Y is highly rearranged and degenerated. Recombination suppression between X and Y extended in several steps and triggered a massive accumulation of repeats on the Y as well as in the nonrecombining pericentromeric region of the X, leading to giant sex chromosomes. Using sex phenotype mutants, we identified candidate sex-determining genes on the Y in locations consistent with their favoring recombination suppression events 11 and 5 million years ago
+
+
+see also New York time coverage [here](https://www.nytimes.com/2025/02/06/science/giant-y-chromosome-flower.html?smid=nytcore-ios-share&referringSource=articleShare)
+
+as well as an article in french by the CNRS [here](https://www.inee.cnrs.fr/fr/cnrsinfo/le-sequencage-du-genome-de-silene-latifolia-eclaire-le-determinisme-du-sexe-chez-les)
+
+**Figure teaser:**
+![](figures/teaser.png)
+**Figure teaser:** snapshot of figure 2 showing syntenic relationships between S. latifolia gametologs and autosomal genes in S. conica and S. vulgaris.Links between homologous chromosomal blocks in the outgroups and S. latifolia X are colored by evolutionary strata. Links between S. latifolia X and Y are colored by synonymous divergence bins (inset). Synteny between S. latifolia Y coordinates and S. latifolia X gene rank is shown at the bottom. The S. latifolia X chromosome tracks are colored by median synonymous divergence of the strata. The PAR region on S. latifolia Y, not shown, is placed to the right of the chromosome track.
+
+
+<br/><br/>
+
+
 
 ## My work  
 
@@ -71,9 +89,7 @@ For instance, we show using empirical genomics that Heliconius numata carrying a
 Using forward simulation we tested the hypothesis that balancing selection and disassortative mating increased genetic diversity in populations harbouring a supergene, although the magnitude of effect was small.
 
 
-<p align="center">
-<img src="figures/FigX0.png" width = "900" height = "400">
-</p>
+![](figures/FigX0.png)
 **Figure:**  *Variation in pi in several Heliconius populations, showing higher genetic diversity in H. numata populations from the Amazon than other taxa. Population names indicates their origin (PR=Peru, CO = Columbia, EC = Ecuador, FG = French Guiana, BR = Brazil (atlantic), VE = Venezuela, PA = Panama. The H. numata population with a lowest diversity is the one from the Atlantic forest (Brazil)*  
 
 

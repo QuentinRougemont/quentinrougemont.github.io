@@ -39,15 +39,16 @@ I am currently based at Institute for the Diversity, Ecology and Evolution of th
 ## News 
 
 
-**The Silene latifolia genome and its giant Y chromosome** just published in [Science!](https://www.science.org/doi/10.1126/science.adj7430)
+### The Silene latifolia genome and its giant Y chromosome** just published in [Science!](https://www.science.org/doi/10.1126/science.adj7430)
 
-**abstract:** 
+**abstract:**  
+ 
 In many species with sex chromosomes, the Y is a tiny chromosome. However, the dioecious plant Silene latifolia has a giant ~550-megabase Y chromosome, which has remained unsequenced so far. We used a long- and short-read hybrid approach to obtain a high-quality male genome. Comparative analysis of the sex chromosomes with their homologs in outgroups showed that the Y is highly rearranged and degenerated. Recombination suppression between X and Y extended in several steps and triggered a massive accumulation of repeats on the Y as well as in the nonrecombining pericentromeric region of the X, leading to giant sex chromosomes. Using sex phenotype mutants, we identified candidate sex-determining genes on the Y in locations consistent with their favoring recombination suppression events 11 and 5 million years ago
 
 
-see also New York time coverage [here](https://www.nytimes.com/2025/02/06/science/giant-y-chromosome-flower.html?smid=nytcore-ios-share&referringSource=articleShare)
+* see also **New York times** coverage [here](https://www.nytimes.com/2025/02/06/science/giant-y-chromosome-flower.html?smid=nytcore-ios-share&referringSource=articleShare)
 
-as well as an article in french by the CNRS [here](https://www.inee.cnrs.fr/fr/cnrsinfo/le-sequencage-du-genome-de-silene-latifolia-eclaire-le-determinisme-du-sexe-chez-les)
+* as well as an article in french by the **CNRS** [here](https://www.inee.cnrs.fr/fr/cnrsinfo/le-sequencage-du-genome-de-silene-latifolia-eclaire-le-determinisme-du-sexe-chez-les)
 
 **Figure teaser:**
 ![](figures/teaser.png)
@@ -98,12 +99,12 @@ Using forward simulation we tested the hypothesis that balancing selection and d
 
 * MÁ Rodríguez de Cara\*, P Jay\*, Q. Rougemont\*, M Chouteau, A Whibley, B, F Piron-Prunier, R Rogner Ramos, AVL Freitas, C Salazar, K Lucas Silva-Brandão, T Texeira Torres, M Joron (2023) Supergene formation is associated with a major shift in genome-wide patterns of diversity in a butterfly. Peer-Community Journal (10.24072/pcjournal.298). [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/27_DeCara_Jay_Rougemont_2023_pcjournal_298.pdf)  
  
-
+<br/>
 
 ## Speciation work on heliconius :  
 
+I also studied the speciation process at the far end of the speciation continuum in a set of closely related species, *Heliconius hecale* and *Helionius ismenius* two strongly divergent species displaying co-mimics and non-comimics ecotypes.  
 
-I also studied the speciation process at the far end of the speciation continuum in a set of closely related species, *Heliconius hecale* and *Helionius ismenius* two strongly divergent species displaying co-mimics and non-comimics ecotypes.
 
 Using a [four-populations ABC framework](https://github.com/QuentinRougemont/ABC_4pop) (extension of our [2pop models](https://github.com/QuentinRougemont/abc_inferences)) we revealed ongoing gene flow (Secondary Contact) between sympatric co-mimic (sub)-species of *H. hecale melicerta* and  *H. ismenius boulleti* whereas their non-comimimcs counterpart (H. hecale zuleika vs H. ismenius clarescens) do not seem to exchange gene anymore despite being in sympatry. 
 
@@ -122,10 +123,8 @@ Using a [four-populations ABC framework](https://github.com/QuentinRougemont/ABC
 
 ### work in Louis Bernatchez's Lab at [Université Laval](http://www2.bio.ulaval.ca/louisbernatchez/presentation_fr.htm), and during my phd:
 
-<p align="center">
-<img src="figures/Fig3.png" width = "500" height = "300" alt>
-    <em> Coho salmon (Credit: Paul Vecsei) </em>
-</p>
+![](figures/Fig3.png)
+*Coho salmon in BC (Credit: Paul Vecsei)*
 
 During my postdoc in Louis'lab as well as during my phd, I focussed mostly in the processes of **divergence** and **speciation** within populations. 
 
@@ -141,9 +140,9 @@ In all cases, the genomes of contemporary populations have been shaped by comple
 During this postdoc and my phd I : 
 * used and develloped methods to infer the demographic history of populations and deduce the expected neutral differentiation patterns under each demographic model to identify signatures of selection in species living in environments with variable connectivity. 
 
-* Perform Genetic-Environment Association analyes (GEA) which is similar to GWAS approaches to infer putative footprint of local adaptation in various species.
+* Perform **Genetic-Environment Association analyes (GEA)** which is similar to **GWAS** approaches to infer putative footprint of local adaptation in various species.
 
-        example paper: 
+example paper: 
  
     * Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.  
 
@@ -152,12 +151,12 @@ During this postdoc and my phd I :
     * H. Cayuela\*, Q Rougemont\*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (\*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
 
 ![](figures/Fig2.jpg)
-**circos plots showing the distribution of outliers in Capelan Fst values are displayed. High Fst values are observed on two chromosomes in an ocean of low differentiation**
+**circos plots showing the distribution of outliers Fst values in capelan** Each dot is a Fst value for a SNP. High Fst values are observed on two chromosomes in an ocean of low differentiation
 
 
 * Used molecular approach to study the genetic load of expanding populations, in particular the process of **allele surfing**
 
-        example paper:
+example paper:
  
     * Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 
@@ -165,11 +164,13 @@ During this postdoc and my phd I :
 ![](figures/Fig5.png)
 **Linear increase in the deleterious load in Coho salmon** **Left panel:** increase in the $\frac{\pi~N~}{\pi~S~}$ ratio (proxy for the load) as a function of the distance from the most likely ancestral refugia. Right panel: inceased in the rate of non-adaptive amino-acid subsitution relative to neutral divergence ($\omega~NA~$). Similar correlations were observed when using more robust proxies for the load.
 
+<br/>
 
 ![](figures/Fig6.png)
-*recombination explains the load in salmon* the levels of GC3 in the genome (used as a proxy for the rate of recombination) is strongly correlated with the $\pi~N~/$\pi~S~ ratio, used here as a proxy for the load.
+**recombination explains the load in many salmonids species** the levels of GC3 in the genome (used as a proxy for the rate of recombination) is strongly correlated with the  $\frac{\pi~N~}{\pi~S~}$ ratio, used here as a proxy for the load.
 
  
+<br/>
 
 
 ## Publications

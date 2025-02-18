@@ -93,8 +93,8 @@ Using a [four-populations ABC framework](https://github.com/QuentinRougemont/ABC
 <p align="center">
 <img src="figures/FigX.png" width = "1200" height = "600">
 </p>
-**Figure:** A. Most likely scenario of divergence inferred from ABC and ABC-RF. The most likely model was obtained through both ABC and ABC-RF. Parameters were estimated with ABC. Arrows display migration rate. The arrow between species displays possible migration (inferred with ABC-RF only) between the comimics. Split time estimated in years assuming four generations per year. All models included the effect of selection at linked sites and of barriers to gene flow. Values in brackets displayed 95% posterior credible intervals. 
-B. Number of significant DFOIL tests between each possible direction. C. Topology tested in the DFOIL analysis. Here, we use the term “incongruent” to refer to situations where the intergroup gene flow is between a comimic and a non-comimic species, which does not allow testing our hypotheses.
+**Figure:** **A.** Most likely scenario of divergence inferred from ABC and ABC-RF. The most likely model was obtained through both ABC and ABC-RF. Parameters were estimated with ABC. Arrows display migration rate. The arrow between species displays possible migration (inferred with ABC-RF only) between the comimics. Split time estimated in years assuming four generations per year. All models included the effect of selection at linked sites and of barriers to gene flow. Values in brackets displayed 95% posterior credible intervals. 
+**B.** Number of significant DFOIL tests between each possible direction. **C.** Topology tested in the DFOIL analysis. Here, we use the term “incongruent” to refer to situations where the intergroup gene flow is between a comimic and a non-comimic species, which does not allow testing our hypotheses.
 
 **associated paper:**
 * Q Rougemont\*, B Huber\*, S Martin, A Whibley, C Estrada, D Solano, R Orpet, W.O McMillan, B Frérot, M Joron (2023) Subtle introgression footprints at the end of the speciation continuum in a clade of Heliconius butterflies. Molecular Biology and Evolution  https://doi.org/10.1093/molbev/msad166 
@@ -135,10 +135,8 @@ During this postdoc and my phd I :
 
     * H. Cayuela\*, Q Rougemont\*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (\*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
 
-<p align="center">
-    <img src="figures/Fig2.jpg" width = "400" heigth = "400">
-    <em> circos plots showing the distribution of outliers in Capelan</em>
-</p>
+![](figures/Fig2.jpg)
+**circos plots showing the distribution of outliers in Capelan Fst values are displayed. High Fst values are observed on two chromosomes in an ocean of low differentiation**
 
 
 * Used molecular approach to study the genetic load of expanding populations, in particular the process of **allele surfing**
@@ -149,12 +147,11 @@ During this postdoc and my phd I :
 
 
 ![](figures/Fig5.png)
-*Linear increase in the deleterious load in Coho salmon*
+**Linear increase in the deleterious load in Coho salmon** Left panel: increase in the $\pi~N~/$\pi~S~ ratio (proxy for the load) as a function of the distance from the most likely ancestral refugia. Right panel: inceased in the rate of non-adaptive amino-acid subsitution relative to neutral divergence ($\omega~NA~). Similar correlations were observed when using more robust proxies for the load.
 
 
-<img src="figures/Fig6.png" width = "700" height = "500">
-    <em> recombination explains the load in salmon</em>
-</p>
+![](figures/Fig6.png)
+*recombination explains the load in salmon* the levels of GC3 in the genome (used as a proxy for the rate of recombination) is strongly correlated with the $\pi~N~/$\pi~S~ ratio, used here as a proxy for the load.
 
  
 

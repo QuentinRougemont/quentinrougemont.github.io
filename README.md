@@ -4,7 +4,7 @@
 <p align="center">
    <a href="https://scholar.google.fr/citations?user=qZSvt04AAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
    <a href="https://orcid.org/000-0003-2987-3801" target="_blank"><img src="icons/orcid.png" alt="ORCID" width=40></a>
-   <a href="https://quentinrougemont.github.io/CV.html"><img src="icons/resume.png" alt="CV" width=40></a>
+   <a href="https://quentinrougemont.github.io/CV_quentin.md"><img src="icons/resume.png" alt="CV" width=40></a>
     <a href="https://github.com/quentinrougemont"><img src="icons/github.jpg" alt="Github" width=40></a>
     <a href="mailto:quentinrougemont@orange.fr"><img src="icons/email.png" alt="E-mail" width=40></a>
 </p>
@@ -144,21 +144,24 @@ During this postdoc and my phd I :
 
 example paper: 
  
-    * Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.  
+* Q Rougemont, A Xuereb, X Dallaire, JS Moore, E Normandeau, EB Rondeau, RE Withler, DM Van Doornik, PA Crane, KA Naish, JC Garza, TD Beacham, BF Koop, L Bernatchez (2022) Long-distance migration is a major factor driving local adaptation at continental scale in Coho salmon Molecular Ecology https://doi.org/10.1111/mec.16339.  
 
-	    *  see perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/22_Rougemont_Molecular_Ecology_2022.pdf)
+    *  see perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/22_Rougemont_Molecular_Ecology_2022.pdf)
 
-    * H. Cayuela\*, Q Rougemont\*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (\*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
+* H. Cayuela\*, Q Rougemont\*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (\*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)  
+
+example results from our work in capelan: 
 
 ![](figures/Fig2.jpg)
 **circos plots showing the distribution of outliers Fst values in capelan** Each dot is a Fst value for a SNP. High Fst values are observed on two chromosomes in an ocean of low differentiation
 
+<br/>
 
-* Used molecular approach to study the genetic load of expanding populations, in particular the process of **allele surfing**
+* I also used molecular approach to study the genetic load of expanding populations, in particular the process of **allele surfing**
 
 example paper:
  
-    * Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
+* Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 
 
 ![](figures/Fig5.png)
@@ -176,7 +179,7 @@ example paper:
 ## Publications
 
 
-below is a set of **selected publications** click here to get the full list  
+below is a set of **selected publications** click [here](CV_quentin.md#Publication-list) to get the full list  
 
 note: the "\*" indicates co-first authorship
 

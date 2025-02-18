@@ -65,21 +65,23 @@ Publication list
 
 **A) Submitted**
 
-35. L Guichard, R Lagadec, L Michel, H Mayeur, M FUENTES, J Pain, N Heier, Q Rougemont, MC Rodicio, A Barreiro-Iglesias, P Blader, M Schubert and S Mazan, 2024. The lamprey habenula provides an extreme example for the temporal regulation of asymmetric development.  Frontiers in Cell and Developmental Biology, in review
-
-34. C Moraga*, C Branco*, Q Rougemont*, P Veltsos, P Jedlička, [….], D Charlesworth, T Giraud, A. Bendahmane, A. Di Genova, A. Madoui, R Hobza, G.A.B. Marais The Silene latifolia genome and its giant Y chromosome. bioRxiv 2023.09.21.558754; doi: https://doi.org/10.1101/2023.09.21.558754. In review. [here](https://quentinrougemont.github.io/docs/).
-
-33. E Lucotte, P Jay, Q Rougemont, L Boyer, A Cornille, A Snirc, A Labat, E Chahine, M Duhamel, J Gendelman, RK Hayes, MH Perlin, A Widmer, J Antonovics, E Bruns, ME Hood, RC Rodríguez de la Vega, T Giraud Loss of function of HD mating-type genes in anther-smut fungi and recombination suppression without mating-type loci linkage, doi: https://doi.org/10.1101/2024.03.03.583181. In review. [here](https://quentinrougemont.github.io/docs/33_Lucotte_et_al2024_RepeatedLoss.pdf)
-
-32. FE Hartmann, RC Rodriguez de la Vega, Q Rougemont, A Deméné, T Badet, D Croll, A Labat, S Prospero, A Snirc, L Stauber, C Dutech, T Giraud, Million years old recombination suppression in a region linked to the mating-type locus in the chestnut blight fungus Cryphonectria parasitics. doi: https://doi.org/10.1101/2024.03.29.587348  In review.  [here](https://quentinrougemont.github.io/docs/32_Hartman_et_al2024_OldInversionCrypho.pdf)
+36.  Q. Rougemont, E Lucotte, L Boyer, A. Jalaber, A. Snirc, T Giraud, Ricardo C Rodríguez de la Vega, EASYstrata: a new workflow to infer evolutionary strata along sex chromosomes and other supergenes, doi: https://doi.org/10.1101/2025.01.06.631483  
 
 **B) Book Chapter**
-31. T Leroy & Q Rougemont (2021) Population genetics analysis methods: from population structure inferences to genome scans for selection. In: Molecular Plant Taxonomy (Springer). https://link.springer.com/protocol/10.1007/978-1-0716-0997-2_16. [here](https://quentinrougemont.github.io/docs/30_Leroy_Rougemont_Chapter_BookMolecularPlantTaxonomy_v2.pdf)
+35. T Leroy & Q Rougemont (2021) Population genetics analysis methods: from population structure inferences to genome scans for selection. In: Molecular Plant Taxonomy (Springer). https://link.springer.com/protocol/10.1007/978-1-0716-0997-2_16. [here](https://quentinrougemont.github.io/docs/30_Leroy_Rougemont_Chapter_BookMolecularPlantTaxonomy_v2.pdf)
 
 
-30. H Cayuela, J Prunier, Q Rougemont Genomic approaches to study dispersal in free-ranging animal populations: insights for wildlife management. In applied environnemental genomics. CSIRO. (2023). DOI: 10.1071/9781486314935.[here](https://quentinrougemont.github.io/docs/31_Chapter_22.pdf)
+34. H Cayuela, J Prunier, Q Rougemont Genomic approaches to study dispersal in free-ranging animal populations: insights for wildlife management. In applied environnemental genomics. CSIRO. (2023). DOI: 10.1071/9781486314935.[here](https://quentinrougemont.github.io/docs/31_Chapter_22.pdf)
 
 **C) Accepted Articles**
+
+33. L Guichard, R Lagadec, L Michel, H Mayeur, M FUENTES, J Pain, N Heier, Q Rougemont, MC Rodicio, A Barreiro-Iglesias, P Blader, M Schubert and S Mazan, 2024. The lamprey habenula provides an extreme example for the temporal regulation of asymmetric development.  Frontiers in Cell and Developmental Biology, in review
+
+32. C Moraga*, C Branco*, Q Rougemont*, P Veltsos, P Jedlička, [….], D Charlesworth, T Giraud, A. Bendahmane, A. Di Genova, A. Madoui, R Hobza, G.A.B. Marais The Silene latifolia genome and its giant Y chromosome. bioRxiv 2023.09.21.558754; doi: https://doi.org/10.1101/2023.09.21.558754. In review. [here](https://quentinrougemont.github.io/docs/).
+
+31. E Lucotte, P Jay, Q Rougemont, L Boyer, A Cornille, A Snirc, A Labat, E Chahine, M Duhamel, J Gendelman, RK Hayes, MH Perlin, A Widmer, J Antonovics, E Bruns, ME Hood, RC Rodríguez de la Vega, T Giraud Loss of function of HD mating-type genes in anther-smut fungi and recombination suppression without mating-type loci linkage, doi: https://doi.org/10.1101/2024.03.03.583181. In review. [here](https://quentinrougemont.github.io/docs/33_Lucotte_et_al2024_RepeatedLoss.pdf)
+
+30. FE Hartmann, RC Rodriguez de la Vega, Q Rougemont, A Deméné, T Badet, D Croll, A Labat, S Prospero, A Snirc, L Stauber, C Dutech, T Giraud, Million years old recombination suppression in a region linked to the mating-type locus in the chestnut blight fungus Cryphonectria parasitics. doi: https://doi.org/10.1101/2024.03.29.587348  In review.  [here](https://quentinrougemont.github.io/docs/32_Hartman_et_al2024_OldInversionCrypho.pdf)
 
 29. Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [here](https://quentinrougemont.github.io/docs/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 

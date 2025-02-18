@@ -36,7 +36,13 @@ I am currently based at Institute for the Diversity, Ecology and Evolution of th
    <a href="https://www.universite-paris-saclay.fr/a-propos/"><img src="icons/logo_psaclay.png" alt="CV" height=70></a>
 </p>
 
-## Ongoing work 
+## News 
+
+
+
+## My work  
+
+###  Ongoing work 
 I am currently working on the evolution of sex chromosome in *Microbotryum* species my goal is to understand the cause of recombination suppression around sex and mating type chromosome in particular in cases were support for the classical hypothesism of sexual antagonism is low or inexistant.
 
 To this aim I performed whole genome sequencing and annotation of several genome of multiple species of *Microbotryum.*
@@ -49,18 +55,46 @@ I work in Tatiana Giraud's lab ([Evolutionary Genetics and Ecology team](https:/
 
 
 
-## Past work 
+### Past work 
 
 ### work in Mathieu Joron's Lab at [CEFE CNRS](https://joron.cefe.cnrs.fr/contact/)
 
 <p align="center">
-<img src="figures/Fig1.png" width = "400" heigth = "400">
+<img src="figures/Fig1.png" width = "400" height = "400">
 </p>
 
-During my postdoc in Mathieu's lab, I worked on the population genomics' of Heliconius numata. In particular, I was interested in understanding the consequences of the mating system on the species demography.
+
+### Heliconius numata demography:
+ 
+During my postdoc in Mathieu's lab, I worked on the population genomics' of **Heliconius numata**. In particular, I was interested in understanding the consequences of the mating system on the species demography. In particular we were interested at testing wether balancing selection (at an inversion supergene) could alter the mating system of a species and have consequences at the genome-wide level on patterns of diversity.   
+For instance, we show using empirical genomics that Heliconius numata carrying an inversion supergene involve in disasortative mating and heterozygote advantage display higher genetic diversity (and Ne) than any other heliconius species. This patern was consistent when comparing to Heliconius numata from Brazil devoid of the inversion-supergene.  
+Using forward simulation we tested the hypothesis that balancing selection and disassortative mating increased genetic diversity in populations harbouring a supergene, although the magnitude of effect was small.
 
 
-I also study the speciation process at the far end of the speciation continuum in a set of closely related species, Heliconius hecale and Helionius ismenius two strongly divergent species displaying co-mimics and non-comimics ecotypes.
+<p align="center">
+<img src="figures/FigX0.png" width = "600" height = "300">
+</p>
+**Figure**  Variation in pi in several Heliconius populations, showing higher genetic diversity in H. numata populations from the Amazon than other taxa. Population names indicates their origin (PR=Peru, CO = Columbia, EC = Ecuador, FG = French Guiana, BR = Brazil (atlantic), VE = Venezuela, PA = Panama. The H. numata population with a lowest diversity is the one from the Atlantic forest (Brazil) 
+**associated paper:** 
+
+* MÁ Rodríguez de Cara\*, P Jay\*, Q. Rougemont\*, M Chouteau, A Whibley, B, F Piron-Prunier, R Rogner Ramos, AVL Freitas, C Salazar, K Lucas Silva-Brandão, T Texeira Torres, M Joron (2023) Supergene formation is associated with a major shift in genome-wide patterns of diversity in a butterfly. Peer-Community Journal (10.24072/pcjournal.298). [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/27_DeCara_Jay_Rougemont_2023_pcjournal_298.pdf)
+
+## speciation work on heliconius :
+
+I also studied the speciation process at the far end of the speciation continuum in a set of closely related species, *Heliconius hecale* and *Helionius ismenius* two strongly divergent species displaying co-mimics and non-comimics ecotypes.
+
+Using a [four-populations ABC framework](https://github.com/QuentinRougemont/ABC_4pop) (extension of our [2pop models](https://github.com/QuentinRougemont/abc_inferences)) we revealed ongoing gene flow (Secondary Contact) between sympatric co-mimic (sub)-species of *H. hecale melicerta* and  *H. ismenius boulleti* whereas their non-comimimcs counterpart (H. hecale zuleika vs H. ismenius clarescens) do not seem to exchange gene anymore despite being in sympatry. 
+
+ 
+<p align="center">
+<img src="figures/FigX.png" width = "600" height = "300">
+</p>
+**Figure:** A. Most likely scenario of divergence inferred from ABC and ABC-RF. The most likely model was obtained through both ABC and ABC-RF. Parameters were estimated with ABC. Arrows display migration rate. The arrow between species displays possible migration (inferred with ABC-RF only) between the comimics. Split time estimated in years assuming four generations per year. All models included the effect of selection at linked sites and of barriers to gene flow. Values in brackets displayed 95% posterior credible intervals. 
+B. Number of significant DFOIL tests between each possible direction. C. Topology tested in the DFOIL analysis. Here, we use the term “incongruent” to refer to situations where the intergroup gene flow is between a comimic and a non-comimic species, which does not allow testing our hypotheses.
+
+**associated paper:**
+* Q Rougemont\*, B Huber\*, S Martin, A Whibley, C Estrada, D Solano, R Orpet, W.O McMillan, B Frérot, M Joron (2023) Subtle introgression footprints at the end of the speciation continuum in a clade of Heliconius butterflies. Molecular Biology and Evolution  https://doi.org/10.1093/molbev/msad166 
+[manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/28_Rougemont_et_al2023MBE_Heliconius.pdf)
 
 
 
@@ -69,11 +103,11 @@ I also study the speciation process at the far end of the speciation continuum i
 ### work in Louis Bernatchez's Lab at [Université Laval](http://www2.bio.ulaval.ca/louisbernatchez/presentation_fr.htm), and during my phd:
 
 <p align="center">
-<img src="figures/Fig3.png" width = "400" heigth = "300">
+<img src="figures/Fig3.png" width = "400" height = "300">
     <em> Coho salmon (Credit: Paul Vecsei) </em>
 </p>
 
-During my postdoc in Louis'lab as well as during my phd, I focussed mostly in the processes of divergence and speciation within populations. 
+During my postdoc in Louis'lab as well as during my phd, I focussed mostly in the processes of **divergence** and **speciation** within populations. 
 
 During my Ph.D., I was able to combine experimental approaches, population genetics (microsatellite markers), genomics (RADseq), and demographic modeling to better understand the divergence process in parasitic and non-parasitic lamprey ecotypes in Europe.
 
@@ -95,15 +129,15 @@ During this postdoc and my phd I :
 
 	    *  see perspective: https://doi.org/10.1111/mec.16792 [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/22_Rougemont_Molecular_Ecology_2022.pdf)
 
-    * H. Cayuela Q Rougemont*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
+    * H. Cayuela\*, Q Rougemont\*,  M Laporte, C Mérot, E Normandeau, S Jentoft, P Sirois, M. Castonguay, T Jansen, K Praebel, M Clément, L Bernatchez (2020). Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of local adaptation in a marine fish. Molecular Ecology. https://doi.org/10.1111/mec.15499  (\*: Co-first authorship). [here](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/17_CayuelaRougemont_et_al2020_Shared ancestral polymorphisms and chromosomal rearrangements as potential drivers of.pdf)
 
 <p align="center">
     <img src="figures/Fig2.jpg" width = "400" heigth = "400">
-    <em> distribution of outliers in Capelan</em>
+    <em> circos plots showing the distribution of outliers in Capelan</em>
 </p>
 
 
-* Used molecular approach to study the genetic load of expanding populations, in particular the process of allele surfing
+* Used molecular approach to study the genetic load of expanding populations, in particular the process of **allele surfing**
 
         example paper:
  
@@ -111,18 +145,26 @@ During this postdoc and my phd I :
 
 
 <p align="center">
-<img src="figures/Fig5.png" width = "400" heigth = "550">
-    <em> Deleterious load in Coho salmon</em>
-<img src="figures/Fig6.png" width = "400" heigth = "400">
+<img src="figures/Fig5.png" width = "800" height = "400">
+    <em> Linear increase in the deleterious load in Coho salmon</em>
+
+
+<img src="figures/Fig6.png" width = "700" height = "500">
     <em> recombination explains the load in salmon</em>
 </p>
 
  
 
 
-## Selected Publications
+## Publications
 
-* C Moraga*, C Branco*, Q Rougemont*, P Veltsos, P Jedlička, [….], D Charlesworth, T Giraud, A. Bendahmane, A. Di Genova, A. Madoui, R Hobza, G.A.B. Marais The Silene latifolia genome and its giant Y chromosome. bioRxiv 2023.09.21.558754; doi: https://doi.org/10.1101/2023.09.21.558754. In review. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/34_Moraga_Branco_Rougemont_et_al-2023-InReview.pdf).
+
+below is a set of **selected publications** click here to get the full list  
+
+note: the "\*" indicates co-first authorship
+
+
+* C Moraga\*, C Branco\*, Q Rougemont\*, P Veltsos, P Jedlička, [….], D Charlesworth, T Giraud, A. Bendahmane, A. Di Genova, A. Madoui, R Hobza, G.A.B. Marais The Silene latifolia genome and its giant Y chromosome. bioRxiv 2023.09.21.558754; doi: https://doi.org/10.1101/2023.09.21.558754. In review. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/34_Moraga_Branco_Rougemont_et_al-2023-InReview.pdf).
 
 * Q Rougemont, T Leroy, EB Rondeau, BF Koop, L Bernatchez (2023) Allele surfing causes maladaptation in a Pacific salmon of conservation concern. Plos Genetics  DOI: 10.1371/journal.pgen.1010918. [manuscript](https://github.com/QuentinRougemont/quentinrougemont.github.io/blob/main/doc/29_Rougemont_et_al_2023_PlosGenetics.pdf)
 
@@ -218,4 +260,4 @@ During this postdoc and my phd I :
 
 ---
 
-Last update: 2024/12/04
+Last update: 2025/02/18

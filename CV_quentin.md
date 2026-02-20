@@ -73,16 +73,18 @@ Publication list
  
 
 **B) Book Chapter**
-36. T Leroy & Q Rougemont (2021) Population genetics analysis methods: from population structure inferences to genome scans for selection. In: Molecular Plant Taxonomy (Springer). https://link.springer.com/protocol/10.1007/978-1-0716-0997-2_16.[available here](https://quentinrougemont.github.io/docs/30_Leroy_Rougemont_Chapter_BookMolecularPlantTaxonomy_v2.pdf)
+36. T Leroy & Q Rougemont (2021) Population genetics analysis methods: from population structure inferences to genome scans for selection. In: Molecular Plant Taxonomy (Springer). https://link.springer.com/protocol/10.1007/978-1-0716-0997-2_16.[available here](docs/30_Leroy_Rougemont_Chapter_BookMolecularPlantTaxonomy_v2.pdf)
 
 
-35. H Cayuela, J Prunier, Q Rougemont Genomic approaches to study dispersal in free-ranging animal populations: insights for wildlife management. In applied environnemental genomics. CSIRO. (2023). DOI: 10.1071/9781486314935.[here](https://quentinrougemont.github.io/docs/31_Chapter_22.pdf)
+35. H Cayuela, J Prunier, Q Rougemont Genomic approaches to study dispersal in free-ranging animal populations: insights for wildlife management. In applied environnemental genomics. CSIRO. (2023). DOI: 10.1071/9781486314935.[here](docs/31_Chapter_22.pdf)
 
 **C) Accepted Articles**
 
-34.  Q. Rougemont, E Lucotte, L Boyer, A. Jalaber, A. Snirc, T Giraud, Ricardo C Rodríguez de la Vega, EASYstrata: a new workflow to infer evolutionary strata along sex chromosomes and other supergenes, doi:  https://doi.org/10.1093/nargab/lqaf110. [available here](https://quentinrougemont.github.io/docs/35_lqaf110.pdf) 
+note: the "\*" indicates co-first authorship
 
-33. L Guichard, R Lagadec, L Michel, H Mayeur, M FUENTES, J Pain, N Heier, Q Rougemont, MC Rodicio, A Barreiro-Iglesias, P Blader, M Schubert and S Mazan, 2024. The lamprey habenula provides an extreme example for the temporal regulation of asymmetric development.  Frontiers in Cell and Developmental Biology, doi: DOI 10.3389/fcell.2025.1528797 [available here](https://quentinrougemont.github.io/doc/36_fcell-13-1528797.pdf).
+34.  Q. Rougemont, E Lucotte, L Boyer, A. Jalaber, A. Snirc, T Giraud, Ricardo C Rodríguez de la Vega, EASYstrata: a new workflow to infer evolutionary strata along sex chromosomes and other supergenes, doi:  https://doi.org/10.1093/nargab/lqaf110. [available here](docs/35_lqaf110.pdf) 
+
+33. L Guichard, R Lagadec, L Michel, H Mayeur, M FUENTES, J Pain, N Heier, Q Rougemont, MC Rodicio, A Barreiro-Iglesias, P Blader, M Schubert and S Mazan, 2024. The lamprey habenula provides an extreme example for the temporal regulation of asymmetric development.  Frontiers in Cell and Developmental Biology, doi: DOI 10.3389/fcell.2025.1528797 [available here](doc/36_fcell-13-1528797.pdf).
 
 32. C Moraga*, C Branco*, Q Rougemont*, P Veltsos, P Jedlička, [….], D Charlesworth, T Giraud, A. Bendahmane, A. Di Genova, A. Madoui, R Hobza, G.A.B. Marais The Silene latifolia genome and its giant Y chromosome. Science.[available here](https://quentinrougemont.github.io/docs/34_science.adj7430.pdf).
 

@@ -1,5 +1,5 @@
 # Quentin Rougemont
-[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Scripts and Pipelines](#Scripts and Pipelines)
+[About](#about) · [My work](#my-work) · [Publications](#publications) · [Teaching](#teaching) · [Talks and posters](#talks-and-posters) · [Contact](#contact) · [Scripts and Pipelines](#Scripts-and-Pipelines)
 
 <p align="center">
    <a href="https://scholar.google.fr/citations?user=qZSvt04AAAAJ&hl=fr" target="_blank"><img src="icons/scholar.png" alt="Google scholar" width=40></a>
@@ -13,7 +13,7 @@
 <img src="figures/Fig0.png" width = "150" heigth = "150">
 
 Hello,
-My name is Quentin Rougemont, and I am a postdoctoral researcher in population genomics. I use the latest methodological advancements in my field to address the following questions: 
+My name is Quentin Rougemont, and I am CNRS researcher in population genomics. I use the latest methodological advancements in my field to address the following questions: 
  
 
     **1. How do demography, selection, and recombination interact to drive processes of speciation and local adaptation? ** 

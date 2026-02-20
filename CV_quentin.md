@@ -71,6 +71,8 @@ Publication list
 
 37. M. Toscani, A. Malik1, A. Riera-Begue1, C Dowling, Q Rougemont, RC Rodríguez de la Vega, T Giraud, S. Schilling and R. Melzer, An ancient X chromosomal region harbours three genes potentially controlling sex determination in Cannabis sativa, submitted  
  
+38. B Monod-Broca, H Cayuela, JG. Prunier, L Belloir, I Boyer, F Isselin-Nondedeu, G Yannic, Heike Pröhl, Q Rougemont*, JP Léna*  Species distribution models predict genome-wide polymorphism and gene flow in an endangered amphibian, submitted
+
 
 **B) Book Chapter**
 36. T Leroy & Q Rougemont (2021) Population genetics analysis methods: from population structure inferences to genome scans for selection. In: Molecular Plant Taxonomy (Springer). https://link.springer.com/protocol/10.1007/978-1-0716-0997-2_16.[available here](docs/30_Leroy_Rougemont_Chapter_BookMolecularPlantTaxonomy_v2.pdf)

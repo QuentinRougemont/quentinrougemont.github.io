@@ -65,15 +65,19 @@ Publication list
 
 **A) Submitted**
 
-36.  Q. Rougemont, E Lucotte, L Boyer, A. Jalaber, A. Snirc, T Giraud, Ricardo C Rodríguez de la Vega, EASYstrata: a new workflow to infer evolutionary strata along sex chromosomes and other supergenes, doi: https://doi.org/10.1101/2025.01.06.631483  
+37. M. Toscani, A. Malik1, A. Riera-Begue1, C Dowling, Q Rougemont, RC Rodríguez de la Vega, T Giraud, S. Schilling and R. Melzer, An ancient X chromosomal region harbours three genes potentially controlling sex determination in Cannabis sativa, submitted  
+ 
 
 **B) Book Chapter**
-35. T Leroy & Q Rougemont (2021) Population genetics analysis methods: from population structure inferences to genome scans for selection. In: Molecular Plant Taxonomy (Springer). https://link.springer.com/protocol/10.1007/978-1-0716-0997-2_16. [here](https://quentinrougemont.github.io/docs/30_Leroy_Rougemont_Chapter_BookMolecularPlantTaxonomy_v2.pdf)
+36. T Leroy & Q Rougemont (2021) Population genetics analysis methods: from population structure inferences to genome scans for selection. In: Molecular Plant Taxonomy (Springer). https://link.springer.com/protocol/10.1007/978-1-0716-0997-2_16. [here](https://quentinrougemont.github.io/docs/30_Leroy_Rougemont_Chapter_BookMolecularPlantTaxonomy_v2.pdf)
 
 
-34. H Cayuela, J Prunier, Q Rougemont Genomic approaches to study dispersal in free-ranging animal populations: insights for wildlife management. In applied environnemental genomics. CSIRO. (2023). DOI: 10.1071/9781486314935.[here](https://quentinrougemont.github.io/docs/31_Chapter_22.pdf)
+35. H Cayuela, J Prunier, Q Rougemont Genomic approaches to study dispersal in free-ranging animal populations: insights for wildlife management. In applied environnemental genomics. CSIRO. (2023). DOI: 10.1071/9781486314935.[here](https://quentinrougemont.github.io/docs/31_Chapter_22.pdf)
 
 **C) Accepted Articles**
+
+34.  Q. Rougemont, E Lucotte, L Boyer, A. Jalaber, A. Snirc, T Giraud, Ricardo C Rodríguez de la Vega, EASYstrata: a new workflow to infer evolutionary strata along sex chromosomes and other supergenes, doi: https://doi.org/10.1101/2025.01.06.631483  
+
 
 33. L Guichard, R Lagadec, L Michel, H Mayeur, M FUENTES, J Pain, N Heier, Q Rougemont, MC Rodicio, A Barreiro-Iglesias, P Blader, M Schubert and S Mazan, 2024. The lamprey habenula provides an extreme example for the temporal regulation of asymmetric development.  Frontiers in Cell and Developmental Biology, in review
 
@@ -97,7 +101,7 @@ Publication list
 
 25. A Xuereb, Q Rougemont, JS. More,  E Normandeau, TD Beacham, L Bernatchez (2023) Refining conservation units in Pacific Salmon. Evolutionary applications. https://doi.org/10.1111/eva.13489  [here](https://quentinrougemont.github.io/docs/25_Xuereb_et_al2022Re‐evaluating Coho salmon Oncorhynchus kisutch conservation units in Canada.pdf)
 
-24.Q Rougemont, C Perrier, AL Besnard, I Lebel, Y Abdallah, E Feunteun, E Réveillac, E Lasne, A Acou, DJ Nachon, F Cobo, G Evanno, JL Baglinière, S Launey (2022) Population genetics reveals cryptic lineages and ongoing hybridization in a declining migratory fish species complex Heredity 10.1038/s41437-022-00547-9 [here](https://quentinrougemont.github.io/docs/24_Rougemont_et_al2022AlosaGenetics.pdf)
+24. Q Rougemont, C Perrier, AL Besnard, I Lebel, Y Abdallah, E Feunteun, E Réveillac, E Lasne, A Acou, DJ Nachon, F Cobo, G Evanno, JL Baglinière, S Launey (2022) Population genetics reveals cryptic lineages and ongoing hybridization in a declining migratory fish species complex Heredity 10.1038/s41437-022-00547-9 [here](https://quentinrougemont.github.io/docs/24_Rougemont_et_al2022AlosaGenetics.pdf)
 
 
 23. Y Dorant, M Laporte, Q Rougemont, H Cayuela, R Rochette, L Bernatchez (2022). Landscape genomics of the American lobster (Homarus americanus). Molecular Ecology. https://doi.org/10.1111/mec.16653 [here](https://quentinrougemont.github.io/docs/23_Dorant_et_al2022MolEcol_Landscape genomics of the American lobster Homarus americanus.pdf)

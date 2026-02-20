@@ -1,17 +1,21 @@
 
 Current position
 ======
-__Postdocal researcher__ in evolution and ecology at [CNRS](https://www.cnrs.fr/) and [Université Paris-Saclay](https://www.ideev.universite-paris-saclay.fr/en/) from November 2022.
+__CNRS researcher__ in evolution and ecology at [CNRS](https://www.cnrs.fr/) and [Université Paris-Saclay](https://www.ideev.universite-paris-saclay.fr/en/) from November 2022.
 
-Working with Tatiana Giraud. 
-
-> sex chromosome evolution in Microbtryum species
+> micro-macro- evolutionary links during the speciation process
 
 __Affiliation__  <br>UMR 8079 CNRS-UPS-AgroParisTech, <br> 12 route 128 91190 Gif-sur-Yvette, France 
 
 
 Past work 
 ======
+
+__2022 - 2025__ Postdocal researcher in evolution and ecology at [CNRS](https://www.cnrs.fr/) and [Université Paris-Saclay](https://www.ideev.universite-paris-saclay.fr/en/) from November 2022.
+
+Working with Tatiana Giraud. 
+
+> sex chromosome evolution in Microbtryum species
 
 
 __2020 - 2022__ PostDoc at CNRS CEFE Montpellier with Mathieu Joron. Demography and population genomics of heliconius numata.
